@@ -1,7 +1,7 @@
 # Outside
 
 <div id="header"
-<h3>Outside is a simple app for tracking the weather in your city.</h3>
+<h3>Outside is a simple minimalistic single page application for tracking the weather in your city.</h3>
   </div>
   <div id="header"
   <h3>Written in Swift using the SwiftUI framework. </h3>
