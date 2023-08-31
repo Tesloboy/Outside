@@ -7,7 +7,7 @@
   <h3>Written in Swift using the SwiftUI framework. </h3>
     </div>
     <div id="header"
-  <h3>The application uses the API from Openweathermap.org.</h3>
+  <h3>The application uses the API from Openweathermap.org</h3>
 </div>
 
 
